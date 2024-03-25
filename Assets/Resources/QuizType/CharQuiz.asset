@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d719f93bb682fcc47bc1da2161deb9b7, type: 3}
+  m_Name: CharQuiz
+  m_EditorClassIdentifier: 
+  QuizTypeArray:
+  - QuizID: A
+    QuizIcon: {fileID: 4963718625464178563, guid: daaa06ebf0735ef4d8972df3f94d1211, type: 3}
+  - QuizID: B
+    QuizIcon: {fileID: 7783457984840754399, guid: daaa06ebf0735ef4d8972df3f94d1211, type: 3}
+  - QuizID: C
+    QuizIcon: {fileID: 3234300448368640894, guid: daaa06ebf0735ef4d8972df3f94d1211, type: 3}
+  - QuizID: D
+    QuizIcon: {fileID: 7911670913450602933, guid: daaa06ebf0735ef4d8972df3f94d1211, type: 3}
+  - QuizID: F
+    QuizIcon: {fileID: -6426668015567183463, guid: daaa06ebf0735ef4d8972df3f94d1211, type: 3}
+  - QuizID: G
+    QuizIcon: {fileID: 216406037199867053, guid: daaa06ebf0735ef4d8972df3f94d1211, type: 3}
+  - QuizID: J
+    QuizIcon: {fileID: -2756605603065543306, guid: daaa06ebf0735ef4d8972df3f94d1211, type: 3}
+  - QuizID: I
+    QuizIcon: {fileID: -3541686595128163680, guid: daaa06ebf0735ef4d8972df3f94d1211, type: 3}
+  - QuizID: E
+    QuizIcon: {fileID: 4652326554734856401, guid: daaa06ebf0735ef4d8972df3f94d1211, type: 3}
+  - QuizID: H
+    QuizIcon: {fileID: -8235857483100294123, guid: daaa06ebf0735ef4d8972df3f94d1211, type: 3}
+  - QuizID: K
+    QuizIcon: {fileID: -1127063002332224934, guid: daaa06ebf0735ef4d8972df3f94d1211, type: 3}
+  - QuizID: L
+    QuizIcon: {fileID: -5901097786099144959, guid: daaa06ebf0735ef4d8972df3f94d1211, type: 3}
+  - QuizID: M
+    QuizIcon: {fileID: 3295844289267200183, guid: daaa06ebf0735ef4d8972df3f94d1211, type: 3}
+  - QuizID: R
+    QuizIcon: {fileID: -6342808464625005154, guid: fa41cad7289a54444be028b612366c65, type: 3}
+  - QuizID: S
+    QuizIcon: {fileID: 8083504644574312765, guid: fa41cad7289a54444be028b612366c65, type: 3}
+  - QuizID: U
+    QuizIcon: {fileID: 3270655726746431581, guid: fa41cad7289a54444be028b612366c65, type: 3}
+  - QuizID: V
+    QuizIcon: {fileID: -2983290644488427326, guid: fa41cad7289a54444be028b612366c65, type: 3}
+  - QuizID: O
+    QuizIcon: {fileID: 5433449995169814141, guid: fa41cad7289a54444be028b612366c65, type: 3}
+  - QuizID: Q
+    QuizIcon: {fileID: -4447791616812998045, guid: fa41cad7289a54444be028b612366c65, type: 3}
+  - QuizID: W
+    QuizIcon: {fileID: -9165466868132007793, guid: fa41cad7289a54444be028b612366c65, type: 3}
+  - QuizID: T
+    QuizIcon: {fileID: -4461999128152558772, guid: fa41cad7289a54444be028b612366c65, type: 3}
+  - QuizID: N
+    QuizIcon: {fileID: 7112752472869403061, guid: fa41cad7289a54444be028b612366c65, type: 3}
+  - QuizID: P
+    QuizIcon: {fileID: -4252152113809563852, guid: fa41cad7289a54444be028b612366c65, type: 3}
+  - QuizID: X
+    QuizIcon: {fileID: 4461586319009975920, guid: fa41cad7289a54444be028b612366c65, type: 3}
+  - QuizID: Y
+    QuizIcon: {fileID: -5001085640463096552, guid: 73e0eaf90197a8d43afed19c01aa7c92, type: 3}
+  - QuizID: Z
+    QuizIcon: {fileID: 3539555106843919260, guid: 73e0eaf90197a8d43afed19c01aa7c92, type: 3}
